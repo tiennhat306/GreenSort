@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570903162570",
+    "project_id": "greensorter-baa1b",
+    "storage_bucket": "greensorter-baa1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570903162570:android:7a5439bd0e1050f6f84e33",
+        "android_client_info": {
+          "package_name": "com.green_sorter.green_sorter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570903162570-lf8fgntincaqhptp1rjdh76hpeifso50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGfxwlLr2OGlFSCg10fHb17oWSNrX-xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570903162570-lf8fgntincaqhptp1rjdh76hpeifso50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
