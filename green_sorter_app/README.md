@@ -1,6 +1,6 @@
 # green_sorter_app
 
-A new Flutter project.
+The application supports garbage classification and helps to remember types of garbage in a smart way
 
 ## Getting Started
 

@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.green_sorter" "\0"
             VALUE "FileDescription", "green_sorter_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "green_sorter_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.green_sorter. All rights reserved." "\0"
             VALUE "OriginalFilename", "green_sorter_app.exe" "\0"
             VALUE "ProductName", "green_sorter_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
